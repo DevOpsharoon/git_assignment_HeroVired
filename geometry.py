@@ -12,7 +12,7 @@ class GeometryCalculator:
 
 if __name__ == "__main__":
 
-calculator = GeometryCalculator()
+    calculator = GeometryCalculator()
 
 # TODO: Implement the feature to calculate the area of a circle
 
@@ -20,112 +20,9 @@ calculator = GeometryCalculator()
 
 # print(f"The area of the circle with radius {radius} = {calculator.calculate_circle_area(radius)}")
 
-# TODO: Implement the feature to calculate the area of a rectangle # length = 10
+# TODO: Implement the feature to calculate the area of a rectangle  
+    length = 10
 
-# width = 6
+    width = 6
 
-# print(f"The area of the rectangle with length {length} and width {width} = {calculator.calculate_rectangle_area(length, width)}")
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-geometry [unix] (05:29 01/01/1970)                                                                                                                                                    0,1 All
--- INSERT --
-
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-geometry [unix] (05:29 01/01/1970)                                                                                                                                                    0,1 All
--- INSERT --
-
+    print(f"The area of the rectangle with length {length} and width {width} = {calculator.calculate_rectangle_area(length, width)}")
