@@ -16,7 +16,9 @@ class Calculator:
 
     def divide(self, a, b):
 
-        return a / b
+        if b == 0:
+            print("Cannot divide by zero.")
+        else:return a / b
 
 # TODO: Implement the following function to calculate the square root of a number.
 
